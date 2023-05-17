@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tsuyopooon/facebook-login-sample/static/css/main.073c9b0a.css",
+    "main.js": "/tsuyopooon/facebook-login-sample/static/js/main.19255dc1.js",
+    "static/js/787.a300ef1c.chunk.js": "/tsuyopooon/facebook-login-sample/static/js/787.a300ef1c.chunk.js",
+    "static/media/logo.svg": "/tsuyopooon/facebook-login-sample/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tsuyopooon/facebook-login-sample/index.html",
+    "main.073c9b0a.css.map": "/tsuyopooon/facebook-login-sample/static/css/main.073c9b0a.css.map",
+    "main.19255dc1.js.map": "/tsuyopooon/facebook-login-sample/static/js/main.19255dc1.js.map",
+    "787.a300ef1c.chunk.js.map": "/tsuyopooon/facebook-login-sample/static/js/787.a300ef1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19255dc1.js"
+  ]
+}
